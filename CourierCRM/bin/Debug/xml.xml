@@ -1,0 +1,18 @@
+<customers>
+  <customers>
+    <id>1</id>
+    <name>A business 1</name>
+    <phone_number>519-222-3333</phone_number>
+    <street_address>123 fake st</street_address>
+    <postal_code>v6y1e8</postal_code>
+    <city>Kitchener</city>
+  </customers>
+  <customers>
+    <id>2</id>
+    <name>B business 2</name>
+    <phone_number>519-234-3421</phone_number>
+    <street_address>222 hello rd.</street_address>
+    <postal_code>n0b1m9</postal_code>
+    <city>Breslau</city>
+  </customers>
+</customers>
